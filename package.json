@@ -1,0 +1,21 @@
+{
+  "author":"Advatar <johan@sellstrom.me>",
+  "name":"advatar-locker-nide",
+  "description":"nide editor as Locker app",
+  "version":"0.0.1",
+  "repository": {
+    "title":"NIDE",
+    "handle":"advatar-locker-nide",
+    "author":"advatar",
+    "update":"auto",
+    "github":"https://github.com/advatar/locker-nide",
+    "type":"app",
+    "static":"false",
+    "oauthSize":{"width":1000,"height":1000},
+    "profileIds":["login"],
+    "url":"https://github.com/advatar/locker-nide"
+   },
+   "engines":{"node":">=0.4.9"},
+   "dependencies":{},
+   "devDependencies":{}
+}
