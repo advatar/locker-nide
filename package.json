@@ -5,12 +5,13 @@
   "version":"0.0.1",
   "repository": {
     "title":"NIDE",
-    "handle":"advatar-locker-nide",
+    "handle":"locker-nide",
     "author":"advatar",
     "update":"auto",
     "github":"https://github.com/advatar/locker-nide",
     "type":"app",
     "static":"false",
+    "hidden": "true",
     "oauthSize":{"width":1000,"height":1000},
     "profileIds":["login"],
     "url":"https://github.com/advatar/locker-nide"
